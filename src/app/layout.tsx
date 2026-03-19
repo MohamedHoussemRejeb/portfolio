@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   title: "Mohamed Houssem Rejeb | Junior Software Engineer",
   description:
     "Portfolio of Mohamed Houssem Rejeb — Junior Software Engineer specialized in Java, Spring Boot, Angular, Microservices, and DevOps.",
-  metadataBase: new URL("https://YOUR-VERCEL-DOMAIN.vercel.app"),
+  metadataBase: new URL("https://mohamedhoussemrejeb.vercel.app"),
   openGraph: {
     title: "Mohamed Houssem Rejeb | Junior Software Engineer",
     description: "Full-Stack (Java/Spring Boot/Angular) • Microservices • DevOps • Data Engineering",
