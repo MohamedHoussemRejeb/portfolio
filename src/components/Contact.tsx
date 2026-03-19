@@ -18,7 +18,7 @@ const CONTACT_ITEMS = [
   {
     type: "GitHub",
     label: "MohamedHoussemRejeb",
-    href: "https://github.com/MohamedHoussemRejeb?tab=repositories",
+    href: "https://github.com/MohamedHoussemRejeb",
     icon: "{}",
   },
 ];

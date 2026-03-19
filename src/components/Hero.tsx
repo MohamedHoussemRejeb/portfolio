@@ -258,15 +258,15 @@ export default function Hero() {
               display: "flex", alignItems: "center", justifyContent: "center",
               position: "relative",
             }}>
-              {/*
-                Remplace ce div par ton image quand ta photo est prête :
+              {
+
                 <Image
                   src="/photo.jpg"
                   alt="Mohamed Houssem Rejeb"
                   width={88} height={88}
                   style={{ borderRadius: "50%", objectFit: "cover", border: "2px solid var(--blue-bd)" }}
                 />
-              */}
+              }
               <div style={{
                 width: 88, height: 88, borderRadius: "50%",
                 background: "var(--blue-dim)", border: "2px solid var(--blue-bd)",
