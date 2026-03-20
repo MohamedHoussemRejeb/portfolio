@@ -263,7 +263,7 @@ export default function Hero() {
                 <Image
                   src="/photo.jpg"
                   alt="Mohamed Houssem Rejeb"
-                  width={88} height={88}
+                  width={150} height={150}
                   style={{ borderRadius: "50%", objectFit: "cover", border: "2px solid var(--blue-bd)" }}
                 />
               }
