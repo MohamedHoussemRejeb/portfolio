@@ -267,15 +267,6 @@ export default function Hero() {
                   style={{ borderRadius: "50%", objectFit: "cover", border: "2px solid var(--blue-bd)" }}
                 />
               }
-              <div style={{
-                width: 88, height: 88, borderRadius: "50%",
-                background: "var(--blue-dim)", border: "2px solid var(--blue-bd)",
-                display: "flex", alignItems: "center", justifyContent: "center",
-                fontFamily: "'DM Sans', sans-serif",
-                fontSize: 26, fontWeight: 600, color: "var(--blue-l)",
-              }}>
-                MR
-              </div>
             </div>
 
             <div style={{ padding: "14px 18px" }}>
